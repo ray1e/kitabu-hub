@@ -25,17 +25,7 @@ function Footer() {
                     <a href="https://www.linkedin.com/in/collins-k-kimani/" rel="noreferrer" target="_blank">
                         <p>Linkedin</p>
                     </a>
-                </li>
-                <li>
-                    <a href="https://github.com/Naman-Saxena1" rel="noreferrer" target="_blank">
-                        <p>Github</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="https://twitter.com/NamanSa83962307?s=08" rel="noreferrer" target="_blank">
-                        <p>Twitter</p>
-                    </a>
-                </li>
+                </li>      
             </ul>
         </div>
     )
